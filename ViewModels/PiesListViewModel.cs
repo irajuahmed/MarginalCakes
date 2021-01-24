@@ -1,8 +1,5 @@
-﻿using System;
+﻿using MarginalCakes.Models;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using MarginalCakes.Models;
 
 namespace MarginalCakes.ViewModels
 {
